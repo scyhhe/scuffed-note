@@ -27,8 +27,8 @@ An [Ali Express](https://aliexpress.com/) version of [privnote](https://privnote
 
 1. Install rust. Easily done via [rustup](https://rustup.rs/)
 2. Clone Project
-3. cd scuffed-note && cargo run
-4. should get the `🚀 Rocket has launched from http://127.0.0.1:8000`
+3. `cd scuffed-note && cargo run`
+4. `🚀 Rocket has launched from http://127.0.0.1:8000`
 
 To create notes, fire up a POST request to `localhost:8000/notes` with the following JSON body:
 
